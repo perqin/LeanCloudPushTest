@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LeanCloudPushTest</string>
+    <string name="button_test">Test</string>
 </resources>
